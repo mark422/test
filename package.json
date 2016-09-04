@@ -1,0 +1,13 @@
+{
+  "name": "workflow",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node_dev gulp"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "webpack": "^1.13.2"
+  }
+}
